@@ -5,15 +5,27 @@ As a natural born go-getter, my passion has continuously driven me to expand my 
 I’m confident in the creative ideas and successful solutions I bring to the table.
 
 ✨ I’m currently in my Btech Engineering 
+
 🌱 I’m currently learning ...
+
    Developing Problem Solving Skills & Blockchain Development
+   
 ⚡ I am comfortable with...
+
 C++
+
 Java
+
 Python
+
 Algorithms
+
 Data Structures
+
 📫 How to reach me: ...
+
 himanshushekher91@gmail.com
+
 Linkedin- https://www.linkedin.com/in/himanshu-shekher-5505351a5/
+
 😄 Pronouns: ... He/Him
